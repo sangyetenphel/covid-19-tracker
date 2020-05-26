@@ -5,7 +5,7 @@ Given an actor name, the app traces down and tries to find a connection to anoth
 We treat this as an AI search problem where we are trying to find the shortest path between 2 actors.
 Our states are people. Our actions are movies, which take us from one actor to another.
 Our initial state and goal state are defined by the two people we’re trying to connect.
-By using breadth-first search, we can find the shortest path from one actor to another.
+By using breadth-first search, we can find the shortest path from one actor to another in a database of 1044500 different actors.
 
 
 The app also shows the latest Coronavirus cases in the U.S.
