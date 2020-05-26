@@ -11,7 +11,7 @@ By using breadth-first search, we can find the shortest path from one actor to a
 
 
 The app also shows the latest Coronavirus cases in the U.S.
-For this I used a python web scraper i.e. BeautifulSoup4 to scape data from the source: https://www.worldometers.info/coronavirus/country/us/
+For this I used a python web scraper library 'BeautifulSoup4' to scape data from the source: https://www.worldometers.info/coronavirus/country/us/
 
 Finally, I generate some random facts about the virus on the botton left section which changes on every http request made.
 
