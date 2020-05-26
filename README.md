@@ -22,6 +22,6 @@ Finally, I generate some random facts about the virus on the botton left section
 
 2. cd into the folder where there is a manage.py file in it. Run `python manage.py runserver` to open the app in your local browser.
 
-Alternatively you can visit this site for a lite version of the same app but with a smaller dataset for demo. https://covidtrackerhollywood.herokuapp.com/
+Alternatively, you can visit this site for a lite version of the same app but with a smaller dataset for demo. https://covidtrackerhollywood.herokuapp.com/
 
 
