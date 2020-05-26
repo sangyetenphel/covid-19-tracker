@@ -20,7 +20,7 @@ Finally, I generate some random facts about the virus on the botton left section
 
 1. Download the folder 'covid_tracker_large' or 'covid_tracker_json' which uses a JSON file instead of a python dictionary to load the huge dataset of all Hollywood actors from source: https://www.imdb.com/.
 
-2. Cd into the folder where there is a manage.py file in it. Run `python manage.py runserver` to open the app in your local browser.
+2. cd into the folder where there is a manage.py file in it. Run `python manage.py runserver` to open the app in your local browser.
 
 Alternatively you can visit this site for a lite version of the same app but with a smaller dataset for demo. https://covidtrackerhollywood.herokuapp.com/
 
