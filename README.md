@@ -1,4 +1,4 @@
-# covid-19-tracker
+# COVID-19 TRACKER
 Use AI to track COVID-19 contraction chances in Hollywood
 
 Given an actor name, the app traces down and tries to find a connection to another actor who has been tested positive for COVID-19. 
